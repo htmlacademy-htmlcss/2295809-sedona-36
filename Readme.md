@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Grishi Viittaliy](https://up.htmlacademy.ru/htmlcss/36/user/2295809).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
